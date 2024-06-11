@@ -1,0 +1,11 @@
+setup.py
+funciones/__init__.py
+funciones/agregarlibro.py
+funciones/buscarLibro.py
+funciones/eliminarLibro.py
+funciones/mostrarLibros.py
+funciones/siHayLibro.py
+gestion_biblioteca.egg-info/PKG-INFO
+gestion_biblioteca.egg-info/SOURCES.txt
+gestion_biblioteca.egg-info/dependency_links.txt
+gestion_biblioteca.egg-info/top_level.txt
